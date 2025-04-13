@@ -1,0 +1,1 @@
+C:\Mobile\doctors_mobile\build\app\intermediates\cxx\RelWithDebInfo\4p30213r\obj\x86_64

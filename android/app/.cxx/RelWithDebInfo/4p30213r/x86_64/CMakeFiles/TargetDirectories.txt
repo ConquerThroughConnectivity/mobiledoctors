@@ -1,0 +1,2 @@
+C:/Mobile/doctors_mobile/android/app/.cxx/RelWithDebInfo/4p30213r/x86_64/CMakeFiles/edit_cache.dir
+C:/Mobile/doctors_mobile/android/app/.cxx/RelWithDebInfo/4p30213r/x86_64/CMakeFiles/rebuild_cache.dir
