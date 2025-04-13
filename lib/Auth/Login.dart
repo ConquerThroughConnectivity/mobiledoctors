@@ -113,13 +113,15 @@ class Login extends StatelessWidget {
                           MaterialPageRoute(builder: (context) => const Home()),
                         );
                       },
-                      child: const Center(
-                        child: Text(
-                          "Sign In",
-                          style: TextStyle(
-                              fontSize: 12,
-                              color: Colors.white,
-                              fontWeight: FontWeight.w600),
+                      child: Center(
+                        child: Container(
+                          child: Text(
+                            "Sign In",
+                            style: TextStyle(
+                                fontSize: 12,
+                                color: Colors.white,
+                                fontWeight: FontWeight.w600),
+                          ),
                         ),
                       ),
                     ),
